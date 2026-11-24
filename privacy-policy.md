@@ -2,7 +2,7 @@
 
 *Last updated: November 24, 2026*
 
-Tyler Jairus Henry LLC ("we," "us") makes Apex Climb, an iOS game. This policy explains what we collect, why, who we share it with, and your choices. Questions? Email [CONTACT EMAIL].
+Tyler Jairus Henry LLC ("we," "us") makes Apex Climb, an iOS game. This policy explains what we collect, why, who we share it with, and your choices. Questions? Email tylerjairushenryllc@gmail.com.
 
 ## 1. Who can play
 
@@ -49,7 +49,7 @@ We keep your gameplay and account data while your account is active. We keep tou
 
 ## 7. Children's privacy (COPPA)
 
-Apex Climb is not directed to children under 13. We don't knowingly collect personal information from anyone under 13, and the tournament is 18+ only. If you believe a child under 13 has given us information, email [CONTACT EMAIL] and we'll delete it.
+Apex Climb is not directed to children under 13. We don't knowingly collect personal information from anyone under 13, and the tournament is 18+ only. If you believe a child under 13 has given us information, email tylerjairushenryllc@gmail.com and we'll delete it.
 
 ## 8. Your rights
 
@@ -60,7 +60,7 @@ You can ask us to:
 - Delete your account and data. You can do this in Settings or by email, but we'll keep records we're legally required to hold.
 - Turn off location access in iOS Settings. Without it, you can't enter the tournament, but you can still play everything else.
 
-California and other U.S. state residents may have additional rights under their state laws, including the right to know, delete, correct, and opt out of the sale or sharing of their information. We don't sell or share personal information for advertising. To make a request, email [CONTACT EMAIL]. We'll respond within 45 days and won't treat you differently for using your rights.
+California and other U.S. state residents may have additional rights under their state laws, including the right to know, delete, correct, and opt out of the sale or sharing of their information. We don't sell or share personal information for advertising. To make a request, email tylerjairushenryllc@gmail.com. We'll respond within 45 days and won't treat you differently for using your rights.
 
 ## 9. Security
 
@@ -72,4 +72,4 @@ If we change this policy, we'll update the date above. For big changes, we'll al
 
 ## 11. Contact
 
-Tyler Jairus Henry LLC, [MAILING ADDRESS], [CONTACT EMAIL]
+Tyler Jairus Henry LLC, [MAILING ADDRESS], tylerjairushenryllc@gmail.com
