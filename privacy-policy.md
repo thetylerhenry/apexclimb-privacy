@@ -41,8 +41,8 @@ We do not sell your personal information, and we don't use it for third-party ad
   - Mythic: $10
   - Legendary: $8
   - Rare: $5
-  - Uncommon: $2.50
-  - Common: $0.50
+  - Uncommon: $1.99
+  - Common: $1.00
 
 Cosmetics (character skins, emblems, and trails) change how you look only. They don't give a gameplay advantage.
 
