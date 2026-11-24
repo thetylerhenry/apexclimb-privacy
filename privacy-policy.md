@@ -96,7 +96,7 @@ To report abuse directly, email **tylerjairushenryllc@gmail.com**. We review rep
 ## 8. Who we share it with
 
 - **Apple:** App Store purchases, refunds, Game Center, and Screen Time. To confirm a Player of the Day purchase, our server checks the purchase with Apple.
-- **Supabase:** our hosting provider. It stores Player of the Day posts, reports, and blocks on our behalf, and may only use them to provide that service.
+- **Supabase:** our backend service. It stores Player of the Day posts, reports, and blocks, and delivers the current Player of the Day message to every player, on our behalf. It may only use this data to provide that service.
 - **Legal and safety:** when the law requires it, or to protect players and the game.
 - **Business transfer:** if we merge with or sell to another company, your data goes to that company under this policy.
 
