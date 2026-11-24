@@ -1,8 +1,8 @@
 # Apex Climb Privacy Policy
 
-*Last updated: [DATE]*
+*Last updated: November 24, 2026*
 
-[COMPANY NAME] ("we," "us") makes Apex Climb, an iOS game. This policy explains what we collect, why, who we share it with, and your choices. Questions? Email [CONTACT EMAIL].
+Tyler Henry ("we," "us") makes Apex Climb, an iOS game. This policy explains what we collect, why, who we share it with, and your choices. Questions? Email [CONTACT EMAIL].
 
 ## 1. Who can play
 
@@ -72,4 +72,4 @@ If we change this policy, we'll update the date above. For big changes, we'll al
 
 ## 11. Contact
 
-[COMPANY NAME], [MAILING ADDRESS], [CONTACT EMAIL]
+Tyler Henry, [MAILING ADDRESS], [CONTACT EMAIL]
