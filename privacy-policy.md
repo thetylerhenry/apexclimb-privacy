@@ -49,14 +49,7 @@ Cosmetics (character skins, emblems, and trails) change how you look only. They 
 
 **Random items:** Buying a cosmetic tier gives you a random item from that tier that you don't already own, so you never get duplicates. The odds of getting each item are shown before you buy. Items you haven't unlocked appear grayed out with a "?" in the collection until you get them.
 
-**Level-up rewards:** You earn XP as you climb (1 XP for every 10 meters), and leveling up gives free cosmetics:
-- Levels 2 through 9: a free Common or Uncommon, followed by an optional offer to buy one specific Rare item shown on screen.
-- Level 10: a free Rare, followed by an optional offer to buy one specific Mythic item shown on screen. That Mythic is not free.
-- Levels 15 and 20: a free Rare.
-- Every other level above 10: a free Uncommon, plus optional offers for higher tiers with odds shown.
-- Before level 10, you won't see Legendary or Mythic offers.
-
-When an offer shows a specific item, buying it gives you exactly that item. Levels 1 through 10 come quickly, and each level after 10 takes longer to reach.
+**Level-up rewards:** You earn XP as you climb, and leveling up rewards you with cosmetic items. Level-ups give free Common, Uncommon, and Rare items, and can unlock offers to buy Legendary and Mythic items, with the best items reserved for higher levels. When an offer shows a specific item, buying it gives you exactly that item. There's no maximum level, so leveling continues as long as you play.
 
 **Free rewards:** We also give free cosmetics as you play:
 - A free Common about every 2 minutes of active play.
